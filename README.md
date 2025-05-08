@@ -14,4 +14,5 @@ This project aims to predict whether children will complete a 4-year college deg
 ```plaintext
 ├── data/                # 14 datasets retrieved from https://www.childandfamilydataarchive.org/cfda/archives/cfda/studies/31622 
 ├── notebooks/           # Jupyter notebooks with analysis and model training steps
+├── scripts/             # Python scripts of helper functions for data cleaning and feature selection
 └── README.md            # This README file
